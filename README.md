@@ -1,6 +1,6 @@
 # React native useful information
 
-## 🗂️ Installation guide
+## 🗂️ Installation guide [Docs](https://reactnative.dev/docs/getting-started)
 
 1. Download an IDE (Visual Studio Code, WebStorm ...)
 2. Download Xcode / Android Studio for simulators / emulators -- expo
@@ -10,7 +10,7 @@
 6. Run the application: `npm start`
 7. Scan the QR code / run the app in a simulator / emulator
 
-## 🧭 Navigation setup
+## 🧭 Navigation setup [Docs](https://reactnavigation.org/docs/getting-started/)
 
 #### General setup
 1. `npm install @react-navigation/native`
