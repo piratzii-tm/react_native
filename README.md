@@ -42,3 +42,8 @@
 ## 🖌️ Design:
 [RNUILib](https://wix.github.io/react-native-ui-lib/) <br>
 [Material Design](https://m3.material.io/)
+
+## Look at this components ⬇️
+
+>Big card
+<img src="./readme_img/bigCard.png" width="288" height="512">
