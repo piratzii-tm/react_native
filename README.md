@@ -46,4 +46,4 @@
 ## Look at this components ⬇️
 
 >Big card
-<img src="./readme_img/bigCard.png" width="288" height="512">
+<img src="./readme_img/bigCard.PNG" width="240" height="300">
